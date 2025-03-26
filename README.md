@@ -1,8 +1,6 @@
 # About me
 Hello my name is Ralf!
-    Humble and honest, currently studying Computer Engineering at Avans Breda.
-    My passion is with apps and graphical applications and am excited to continue to grow. With an eye for detail of appearance and operation, striving for a maintainable and beautiful application and code.
-    <br>Looking for a software company to develop myself in.
+    Humble and honest, currently working at Sopra Steria.
 
 
 # Contact
