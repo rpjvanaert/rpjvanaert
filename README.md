@@ -2,11 +2,13 @@
 Hello my name is Ralf!
     Humble and honest, currently working at Sopra Steria.
 
+# Project Knight Clubbing
+Currently working on a chess engine in Java!
+
 
 # Contact
 - Reach me on [LinkedIn](https://www.linkedin.com/in/ralf-van-aert-3a7797170/)
 - [Mail](mailto:ralf@van-aert.nl) me
-
 
 <!---
 rpjvanaert/rpjvanaert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
